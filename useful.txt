@@ -1,0 +1,25 @@
+<img src="images/banner.jpg" />
+<img src="../images/banner.jpg" />
+
+
+<a href="#"></a>
+
+<li>
+	<a href="#"></a>
+</li>
+
+background:url(images/banner.jpg) left top #;
+background:url(../images/banner.jpg) left top #;
+
+
+min-height:600px;height:auto!important;height:600px;
+ :after{content:".";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
+
+display:block;
+width:;
+height:;
+line-height:;
+text-align:center;
+font-size:12px;
+font-weight:600;
+color:#CCC;
